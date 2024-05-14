@@ -3,6 +3,10 @@ Pequeño servidor local para realizar votaciones.
 
 Para iniciar:
 
-    npm start    
+Primero instalamos las dependencias:
+    
+    npm install
 
-    node server.js
+Iniciamos el servidor:
+
+    npm start
